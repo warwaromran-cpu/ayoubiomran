@@ -1,0 +1,41 @@
+{
+  "status": "Recipient-local registry template. Populate only with new Codex conversation routes in the recipient account.",
+  "agents": [
+    {
+      "id": "ceo",
+      "title": "ADIBUILD CEO",
+      "thread_id": null,
+      "host_id": null
+    },
+    {
+      "id": "design",
+      "title": "Wooden Design agent",
+      "thread_id": null,
+      "host_id": null
+    },
+    {
+      "id": "costing",
+      "title": "Costing and invoicing agent",
+      "thread_id": null,
+      "host_id": null
+    },
+    {
+      "id": "github",
+      "title": "GitHub agent",
+      "thread_id": null,
+      "host_id": null
+    },
+    {
+      "id": "maintenance",
+      "title": "Software maintenance agent",
+      "thread_id": null,
+      "host_id": null
+    },
+    {
+      "id": "marketing",
+      "title": "ADIBUILD Marketing Agent",
+      "thread_id": null,
+      "host_id": null
+    }
+  ]
+}
