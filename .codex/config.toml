@@ -1,0 +1,8 @@
+# Project-level Codex settings. Codex applies them once this project is marked as trusted.
+# "untrusted": Codex asks before running any command that is not a known safe read-only command.
+approval_policy = "untrusted"
+# "workspace-write": Codex may edit files only inside this project folder.
+sandbox_mode = "workspace-write"
+
+[sandbox_workspace_write]
+network_access = false
